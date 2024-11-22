@@ -73,21 +73,6 @@ Defines the **Home Page UI**:
 
 ---
 
-## 📸 Screenshots
-
-### 🖼️ Home Screen  
-_(Add a screenshot showing the home page UI with the AppBar and body content)_
-
----
-
-## 🚀 Future Enhancements
-
-- ✨ Add interactivity to the icons for **Facebook**, **Contact Mail**, and **Phone**.
-- 🎨 Implement animations for a more dynamic experience.
-- 🌍 Include multilingual support for the welcoming text.
-
----
-
 ## ✍️ Author
 
 👩‍💻 **Saja Nazih Asfour**  
